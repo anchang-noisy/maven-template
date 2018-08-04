@@ -1,4 +1,4 @@
-#　Maven Template Repository
+# Maven Template Repository
 
 1. 適当なGitリポジトリのこのリポジトリの中身をコピーしプッシュ
 
